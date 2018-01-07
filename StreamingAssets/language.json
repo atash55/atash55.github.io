@@ -36,7 +36,7 @@
 		"screen4_desc" : "The greater the speed of an object the more energy it possesses.\nLook at what Pucky is upto above.",
 		"screen5_desc" : "Did you notice that the bell rang louder when Pucky was moving faster? When Pucky moved faster, he had greater energy, which made the bell ring louder",		
 		"hud_score" : "SCORE",
-		"minigame1_title" : "Mini Game 1 - How to Play",
+		"minigame1_title" : "Becky & Pucky Mini Game - How to Play",
 		"minigame1_desc" : "Your objective is to hit the bell with Pucky at the right loudness.\n The target loudness is indicated by the pink zone on the meter under the bell \n Tap/Click and hold to charge up the puck and release to move Pucky toward the Bell\n \n  Good Luck!",
 		"minigame1_gameover_title" : "Game Over!",
 		"minigame1_gameover_desc" : "You need to hit the right loudness! Dont move too fast or too slow",
@@ -44,7 +44,7 @@
 		"gameover_hiscore": "HISCORE",
 		"gameover_newhiscore" : "NEW",
 		"end_summary_desc" : "Let's go through what we have observed once again! \n - Moving objects contain energy. \n - The energy of motion is a mechanical energy. \n - Motion is the change in position of an object. \n - Speed is the rate at which an object changes its position. \n - The greater the speed of an object, the more energy it possesses. ",
-		"fin_desc" : "FIN!\n Thank you for playing! \n Credits: \n Bell sound by InspectorJ of Freesound.org \n Music-http://www.bensound.com"
+		"fin_desc" : "FIN!\n Thank you for playing! \n Credits: \n Bell sound by InspectorJ of Freesound.org \n Music- http://www.bensound.com"
 	},
 	"hi":
 	{
