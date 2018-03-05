@@ -6,7 +6,7 @@
 			"main_menu_play": 20,
 			"main_menu_title": 20,
 			"pucky": 10,
-			"Becky": 10,
+			"becky": 10,
 			"screen1_desc" : 220,
 			"screen2_Desc" : 320,
 			"screen3_Desc" : 320,
@@ -28,7 +28,6 @@
 			"minigame2_gameover_title" : 100,
 			"minigame2_gameover_desc" : 100,
 			"end_summary_desc" : 500,
-
 			"fin_desc" : 200
 		}
 	},
